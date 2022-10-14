@@ -1,0 +1,9 @@
+# Output files
+output_files/*
+incremental_db/*
+
+# Database
+db/*
+
+# Simulation
+simulation/modelsim/*
